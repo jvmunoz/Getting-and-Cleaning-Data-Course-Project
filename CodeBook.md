@@ -85,6 +85,8 @@ run_analysis.R cleans this data
 
 ## CodeBook for the cleaned data (tidyData1.txt and tidyData2.txt)
 
+Both at ./UCI HAR Dataset
+
 ### tidyData1.txt
 
 tidyData1.txt is a tab-delimited text file
